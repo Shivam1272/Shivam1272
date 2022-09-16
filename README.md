@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivam1272
+- 👋 Hi, I’m @Shivam Patel
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on WEB as well as APP Development Project
