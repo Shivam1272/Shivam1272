@@ -11,7 +11,7 @@ Welcome to my GitHub repository! I'm a highly motivated web developer with a str
 
 ## 🎓 Education
 
-- B. Tech in Information Technology (CGPA: 9.29).
+- B.E in Information Technology (CGPA: 9.29).
 - Proficient in C++, Python, and Java.
 - Skilled in full-stack development (HTML, CSS, JavaScript, Node.js).
 - Familiar with database management (SQL and NoSQL).
